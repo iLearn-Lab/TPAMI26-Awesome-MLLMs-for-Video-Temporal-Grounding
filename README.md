@@ -119,6 +119,9 @@ MLLMs directly perform temporal boundary prediction via integrated multimodal re
 | [**Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding**](http://arxiv.org/abs/2503.13377) |      Time-R1      | 05/2025 |        [project](https://xuboshen.github.io/Time-R1/)        |  arXiv   |
 | [**MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding**](http://arxiv.org/abs/2505.20715) |       MUSEG       | 05/2025 |        [project](https://github.com/THUNLP-MT/MUSEG)         |  arXiv   |
 | [**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**](https://arxiv.org/abs/2603.24329) |    GameplayQA     | 03/2026 |       [project](https://hats-ict.github.io/gameplayqa/)      | ACL  |
+| [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | VideoChat3 | 07/2026 | [code](https://github.com/MCG-NJU/VideoChat3) | arXiv |
+| [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | TimeLens2 | 07/2026 | [code](https://github.com/MCG-NJU/TimeLens2) | arXiv |
+| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | VideoJev | 10/2026 | [code](https://github.com/MCG-NJU/VideoJev) | arXiv |
 
 ---
 
@@ -172,6 +175,9 @@ Adapts general-purpose MLLMs to downstream VTG tasks through supervised fine-tun
 | [**LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval**](http://arxiv.org/abs/2411.14505) | LLaVA-MR | 11/2024 |                         -                         |  arXiv   |
 | [**Vid-Morp: Video Moment Retrieval Pretraining from Unlabeled Videos in the Wild**](http://arxiv.org/abs/2412.00811) |     ReCorrect     | 12/2024 |         [project](https://github.com/baopj/Vid-Morp)         |  arXiv   |
 | [**VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval**](http://arxiv.org/abs/2412.01558) |    VideoLights     | 12/2024 |  [project](https://github.com/dpaul06/VideoLights)   |      arXiv       |
+| [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | VideoChat3 | 07/2026 | [code](https://github.com/MCG-NJU/VideoChat3) | arXiv |
+| [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | TimeLens2 | 07/2026 | [code](https://github.com/MCG-NJU/TimeLens2) | arXiv |
+| [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | VideoJev | 10/2026 | [code](https://github.com/MCG-NJU/VideoJev) | arXiv |
 
 ### Training-Free  
 Training-free approaches integrate pre-trained foundation models with specialized expert tools through the carefully designed pipeline architecture.
