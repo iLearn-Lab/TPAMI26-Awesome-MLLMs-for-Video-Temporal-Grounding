@@ -121,6 +121,7 @@ MLLMs directly perform temporal boundary prediction via integrated multimodal re
 | [**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**](https://arxiv.org/abs/2603.24329) |    GameplayQA     | 03/2026 |       [project](https://hats-ict.github.io/gameplayqa/)      | ACL  |
 | [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | VideoChat3 | 07/2026 | [code](https://github.com/MCG-NJU/VideoChat3) | arXiv |
 | [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | TimeLens2 | 07/2026 | [code](https://github.com/MCG-NJU/TimeLens2) | arXiv |
+| [**Grounding with Confidence: Controllable Generative Video Temporal Grounding**](https://arxiv.org/abs/2609.39883) | CTVG-4B | 09/2026 | [code](https://github.com/Alibaba-VELLDEPTH/Grounding-with-Confidence) | arXiv |
 | [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | VideoJev | 10/2026 | [code](https://github.com/MCG-NJU/VideoJev) | arXiv |
 
 ---
@@ -177,6 +178,7 @@ Adapts general-purpose MLLMs to downstream VTG tasks through supervised fine-tun
 | [**VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval**](http://arxiv.org/abs/2412.01558) |    VideoLights     | 12/2024 |  [project](https://github.com/dpaul06/VideoLights)   |      arXiv       |
 | [**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**](https://arxiv.org/abs/2607.14935) | VideoChat3 | 07/2026 | [code](https://github.com/MCG-NJU/VideoChat3) | arXiv |
 | [**TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**](https://arxiv.org/abs/2607.17423) | TimeLens2 | 07/2026 | [code](https://github.com/MCG-NJU/TimeLens2) | arXiv |
+| [**Grounding with Confidence: Controllable Generative Video Temporal Grounding**](https://arxiv.org/abs/2609.39883) | CTVG-4B | 09/2026 | [code](https://github.com/Alibaba-VELLDEPTH/Grounding-with-Confidence) | arXiv |
 | [**VideoJev: System One Model for Video Understanding and Interaction**](https://arxiv.org/abs/2610.18615) | VideoJev | 10/2026 | [code](https://github.com/MCG-NJU/VideoJev) | arXiv |
 
 ### Training-Free  
